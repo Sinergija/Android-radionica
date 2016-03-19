@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VestiSinergija</string>
+    <string name="action_settings">Settings</string>
+    <string name="webview">WebView</string>
+</resources>
