@@ -1,4 +1,4 @@
-# Android-radionica
+# Android radionica
 Android radionica - Fakultet za računarstvo i informatiku, Univerzitet Sinergija, www.sinergija.edu.ba
 
 Aplikacija je namenjena početnicima za upoznavanje osnovnih funkcionalnih elemenata Android OS. 
